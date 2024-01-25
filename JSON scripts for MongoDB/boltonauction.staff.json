@@ -1,0 +1,10 @@
+[{"StaffID":"CON003", "Staffname":"Lareina Conway", "Staffaddress":"941-6642 Donec Street", 	"Staffphone":"07026 870247", 	"Job_title":"Assistant"},
+ {"StaffID":"FIS010", "Staffname":"Ulric Fisher", 	"Staffaddress":"536-2804 Tempus Rd.", 		"Staffphone":"08002 72847", 	"Job_title":"Auctioneer"},
+ {"StaffID":"GAR002", "Staffname":"Paul Garner", 	"Staffaddress":"914-2990 Ultrices. Street", "Staffphone":"07624 412036", 	"Job_title":"Assistant"},
+ {"StaffID":"HUF001", "Staffname":"Peter Huff", 	"Staffaddress":"6227 Sem. Road", 			"Staffphone":"01118 116234", 	"Job_title":"Auctioneer"},
+ {"StaffID":"LAR007", "Staffname":"Kimberly Larson","Staffaddress":"808-6219 Ultricies Rd.", 	"Staffphone":"09057 617373",	"Job_title":"Assistant"},
+ {"StaffID":"MAR001", "Staffname":"Moses Marsh", 	"Staffaddress":"2738 Dui. St.", 			"Staffphone":"07624 433836", 	"Job_title":"Assistant."},
+ {"StaffID":"MCK050", "Staffname":"Imani Mckay", 	"Staffaddress":"218-4087 Turpis St.", 		"Staffphone":"08002 24786", 	"Job_title":"Auctioneer."},
+ {"StaffID":"POL008", "Staffname":"Kane Pollard", 	"Staffaddress":"559-9243 Accumsan St.", 	"Staffphone":"07812 584527", 	"Job_title":"Auctioneer"},
+ {"StaffID":"POT003", "Staffname":"Armand Potts", 	"Staffaddress":"Ap #555-697 Arcu. St.", 	"Staffphone":"05005 16540",	 	"Job_title":"Auctioneer"},
+ {"StaffID":"RUS006", "Staffname":"Isabella Rush", 	"Staffaddress":"883-1373 Elit Rd.", 		"Staffphone":"08310 594915", 	"Job_title":"Assistant"}]

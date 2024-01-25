@@ -1,0 +1,173 @@
+[
+    {
+        "_id": 1,
+        "AuctionDate": "2023-07-11",
+        "StaffID" : [
+			"POL008",
+			"FIS010"
+			],
+        "Location": "Manchester",
+        "Lot": [{
+            "LotNumber": 1,
+            "LotDescription": "17th & 15th Gold Jewellery",
+            "ReservePrice": 100,
+            "SellerID": 104
+        }],
+        "Items": [
+            {
+                "ItemID": 100,
+                "ItemDescription": "17th century ruby ring"
+            },
+            {
+                "ItemID": 101,
+                "ItemDescription": "15th century gold earing"
+            },
+            {
+                "ItemID": 102,
+                "ItemDescription": "Edwardian Bird Broch"
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "AuctionDate": "2023-07-08",
+        "StaffID": [
+			"POL008",
+			"FIS010"
+			],
+        "Location": "Bury",
+        "Lot": [{
+            "LotNumber": 6,
+            "LotDescription": "9ct gold cuff links",
+            "ReservePrice": 80,
+            "SellerID": 106
+        }],
+        "Items":[ {
+            "ItemID": 103,
+            "ItemDescription": "16th century 9ct gold cuff links"
+        }]
+    },
+    {
+        "_id": 3,
+        "AuctionDate": "2023-06-11",
+        "StaffID": [
+			"POL008",
+			"FIS010"
+			],
+        "Location": "Burnley",
+        "Lot": [{
+            "LotNumber": 4,
+            "LotDescription": "15th Century Toy Selection",
+            "ReservePrice": 150,
+            "SellerID": 108
+        }],
+        "Items": [
+            {
+                "ItemID": 104,
+                "ItemDescription": "push along dog toy"
+            },
+            {
+                "ItemID": 105,
+                "ItemDescription": "Victorian Doll"
+            },
+            {
+                "ItemID": 115,
+                "ItemDescription": "Victorian Dolls House"
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "AuctionDate": "2023-07-11",
+        "StaffID": [
+			"MCK050",
+			"GAR002"
+			],
+        "Location": "Bolton",
+        "Lot": [{
+            "LotNumber": 5,
+            "LotDescription": "Flower Vase",
+            "ReservePrice": 20,
+            "SellerID": 102
+        }],
+        "Items": [{
+            "ItemID": 106,
+            "ItemDescription": "Floral Vase"
+        }]
+    },
+    {
+        "_id": 5,
+        "AuctionDate": "2023-06-13",
+         "StaffID": [
+			"MCK050",
+			"FIS010"
+			],
+        "Location": "Preston",
+        "Lot":[{
+            "LotNumber": 3,
+            "LotDescription": "17th Century Blue China Tea Set",
+            "ReservePrice": 100,
+            "SellerID": 104
+        }],
+        "Items": [
+            {
+                "ItemID": 107,
+                "ItemDescription": "Blue Pattern China TeaPot, 17th Century"
+            },
+            {
+                "ItemID": 108,
+                "ItemDescription": "Blue Pattern China Cup and Saucer, 17th Century"
+            },
+            {
+                "ItemID": 109,
+                "ItemDescription": "Blue Pattern China Milk Jug, 17th Century"
+            },
+            {
+                "ItemID": 110,
+                "ItemDescription": "Blue Pattern China Sugar Bowl, 17th Century"
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "AuctionDate": "2023-04-13",
+        "StaffID": [
+			"HUF001",
+			"RUS006"
+			],
+        "Location": "Preston",
+        "Lot": [
+            {
+                "LotNumber": 7,
+                "LotDescription": "Earing and Broch Set",
+                "ReservePrice": 80,
+                "SellerID": 104
+            },
+            {
+                "LotNumber": 8,
+                "LotDescription": "1960s toys",
+                "ReservePrice": 30,
+                "SellerID": 108
+            }
+        ],
+        "Items": [
+            {
+                "ItemID": 111,
+                "ItemDescription": "12th century white gold earings"
+            },
+            {
+                "ItemID": 112,
+                "ItemDescription": "Victoria Emerald Broch"
+            },
+            {
+                "ItemID": 113,
+                "ItemDescription": "Jack in the Box, 1960"
+            },
+            {
+                "ItemID": 114,
+                "ItemDescription": "spinning top, 1960"
+            }
+        ]
+    }
+]
+

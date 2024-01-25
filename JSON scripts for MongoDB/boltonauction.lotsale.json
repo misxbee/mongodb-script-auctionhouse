@@ -1,0 +1,7 @@
+[{"_id":"S001", "BidderID":"NOR0001", "LotNumber":1, "WinningPrice":150},
+ {"_id":"S002", "BidderID":"NOR0001", "LotNumber":6, "WinningPrice":120},
+ {"_id":"S003", "BidderID":"NOR0001", "LotNumber":5, "WinningPrice":40},
+ {"_id":"S004", "BidderID":"COF0007", "LotNumber":3, "WinningPrice":175},
+ {"_id":"S005", "BidderID":"HOP0008", "LotNumber":4, "WinningPrice":210},
+ {"_id":"S006", "BidderID":"HOP0008", "LotNumber":7, "WinningPrice":95},
+ {"_id":"S007", "BidderID":"HEN0005", "LotNumber":8, "WinningPrice":95}]
